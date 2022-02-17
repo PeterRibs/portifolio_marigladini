@@ -5,6 +5,7 @@
   margin: 0;
   width: 100%;
   z-index: 1000;
+  min-width: 460px;
 }
 
 .inicio_btn{

@@ -38,8 +38,9 @@
   margin: auto;
   font-size: 2rem;
   font-weight: bold;
-  padding: 30px;
+  padding: 30px 20px;
   text-align: center;
+
 }
 
 .form-submit-btn{
