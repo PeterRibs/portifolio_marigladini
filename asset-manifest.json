@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/portifolio_marigladini/static/css/main.bafd62db.css",
+    "main.js": "/portifolio_marigladini/static/js/main.97ea65ef.js",
+    "static/js/787.4345a892.chunk.js": "/portifolio_marigladini/static/js/787.4345a892.chunk.js",
+    "static/media/imagem_mae.jpg": "/portifolio_marigladini/static/media/imagem_mae.edb8bcf441ec11d45449.jpg",
+    "static/media/imagem_escrita.jpg": "/portifolio_marigladini/static/media/imagem_escrita.0d53b155efb2e9cdd17e.jpg",
+    "static/media/imagem_pe.png": "/portifolio_marigladini/static/media/imagem_pe.1e01c7625f4dfe3dc156.png",
+    "static/media/imagem_caos.png": "/portifolio_marigladini/static/media/imagem_caos.14e50f9a81776c6d739a.png",
+    "static/media/imagem_maria.png": "/portifolio_marigladini/static/media/imagem_maria.44e017b9e5d288cb4812.png",
+    "static/media/imagem_cafe.png": "/portifolio_marigladini/static/media/imagem_cafe.6fd0c14d04819746da8a.png",
+    "static/media/imagem_mari.jpeg": "/portifolio_marigladini/static/media/imagem_mari.5397b3bf5ede8a5c0b76.jpeg",
+    "index.html": "/portifolio_marigladini/index.html",
+    "main.bafd62db.css.map": "/portifolio_marigladini/static/css/main.bafd62db.css.map",
+    "main.97ea65ef.js.map": "/portifolio_marigladini/static/js/main.97ea65ef.js.map",
+    "787.4345a892.chunk.js.map": "/portifolio_marigladini/static/js/787.4345a892.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bafd62db.css",
+    "static/js/main.97ea65ef.js"
+  ]
+}
