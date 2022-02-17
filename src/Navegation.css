@@ -1,0 +1,19 @@
+.main-nav{
+  display: flex;
+  justify-content: flex-end;
+  position: absolute;
+  margin: 0;
+  width: 100%;
+  z-index: 1000;
+}
+
+.inicio_btn{
+  background-color: gray;
+  color: white;
+  padding: 20px;
+  margin: 5px;
+  border-radius: 100px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+}

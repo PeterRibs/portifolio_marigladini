@@ -1,0 +1,56 @@
+.container-contatos{
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 20px;
+  height: 100vh;
+  min-height: 840px;
+}
+
+.contatos-form{
+  padding: 10px 50px;
+  min-width: 250px;
+  max-width: 600px;
+  margin: auto;
+  justify-content: center;
+}
+
+.contatos-form input, .contatos-form textarea{
+  width: 100%;
+  height: 40px;
+  background: rgba(0, 0, 0, 0.6);
+  border: 1px solid #fff;
+  margin-bottom: 30px;
+  border-radius: 5px;
+  color: #faebd7;
+}
+
+::placeholder{
+  color: #faebd7;
+}
+
+#msg{
+  height: 280px;
+  resize: none;
+  font-family: sans-serif;
+}
+
+.contatos-texto{
+  margin: auto;
+  font-size: 2rem;
+  font-weight: bold;
+  padding: 30px;
+  text-align: center;
+}
+
+.form-submit-btn{
+  background: #ff0000;
+  border-color: #ff0000; 
+  color: #faebd7;
+  text-transform: capitalize;
+  padding: 15px 40px;
+  display: block;
+  margin: auto;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
