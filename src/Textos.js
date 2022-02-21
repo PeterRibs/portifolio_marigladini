@@ -1,9 +1,10 @@
-import cafe from "./Figs/imagem_cafe.png";
+import cafe from "./Figs/imagem_cafe.jpeg";
 import escrita from "./Figs/imagem_escrita.jpg";
-import mae from "./Figs/imagem_mae.jpg";
-import pe from "./Figs/imagem_pe.png";
-import caos from "./Figs/imagem_caos.png";
-import maria from "./Figs/imagem_maria.png"
+import mae from "./Figs/imagem_mae.jpeg";
+import pe from "./Figs/imagem_pe.jpeg";
+import caos from "./Figs/imagem_caos.jpeg";
+import maria from "./Figs/imagem_maria.jpeg"
+import simesmo from "./Figs/imagem_simesmo.jpeg"
 
 const TextoList = [
   {
@@ -168,7 +169,32 @@ const TextoList = [
   O mesmo amor, hoje, agora e sempre!
   Feliz dia 15!
   `
+  },
+
+  {
+    id: 7,
+  data: "21/02/2022",
+  titulo: "Quão energicamente você consegue forçar a si mesmo?",
+  imagem: simesmo,
+  texto:
+  `
+  Esses dias me peguei em uma reflexão que martelou, sem parar, minha cabeça.
+  O que eu amo, de verdade?
+  O que eu quero, genuinamente? 
+  Entendi, por esses dias que antes de articular meus próprios padrões de valor, preciso aprender a me ver como uma estranha e, então, conhecer aquilo que sou.
+  Preciso aprender a moldar algumas coisas, e também seus limites.
+  A pergunta que ficou na minha cabeça é: eu negocio justamente comigo mesma ? ou sou uma tirana, tendo a mim mesma como escrava ?
+  Quando deixei de gostar daquelas pessoas, e, por quê ? 
+  O que posso fazer a respeito disso?
+  Isso não é uma mera questão do que eu deveria querer. Não estou falando do que os outros exigem de mim, ou do meu dever com eles. Essas coisas, em minha opinião, podem determinar a natureza da minha obrigação moral. Pesado né ?
+  Apesar de que quando consulto meu ressentimento, percebo que é uma emoção reveladora, apesar de sua patologia. 
+  Aprendi, com o tempo, que a consequência do silêncio é pior, fico quieta e evito o conflito, mas a longo prazo isso é mortal. 
+  Quando precisamos dizer algo, o segredo é uma mentira. 
+  Em um curto período, tive que aprender a decidir quanto de energia devo gastar em algo, e também o que deve ser deixado de lado.
+  E você, quão energicamente você consegue forçar a si mesmo?
+  `
   }
+
 ];
 
 export default TextoList;
