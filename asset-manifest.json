@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portifolio_marigladini/static/css/main.0960290f.css",
-    "main.js": "/portifolio_marigladini/static/js/main.994d0500.js",
+    "main.css": "/portifolio_marigladini/static/css/main.9369259c.css",
+    "main.js": "/portifolio_marigladini/static/js/main.2e0e6553.js",
     "static/js/787.4345a892.chunk.js": "/portifolio_marigladini/static/js/787.4345a892.chunk.js",
     "static/media/imagem_caos.jpeg": "/portifolio_marigladini/static/media/imagem_caos.1da85384f1599d4016d9.jpeg",
     "static/media/imagem_maria.jpeg": "/portifolio_marigladini/static/media/imagem_maria.302fa84d5fb7bbf67c88.jpeg",
@@ -12,12 +12,12 @@
     "static/media/imagem_pe.jpeg": "/portifolio_marigladini/static/media/imagem_pe.9471083318fa63a342fe.jpeg",
     "static/media/imagem_mari.jpeg": "/portifolio_marigladini/static/media/imagem_mari.5397b3bf5ede8a5c0b76.jpeg",
     "index.html": "/portifolio_marigladini/index.html",
-    "main.0960290f.css.map": "/portifolio_marigladini/static/css/main.0960290f.css.map",
-    "main.994d0500.js.map": "/portifolio_marigladini/static/js/main.994d0500.js.map",
+    "main.9369259c.css.map": "/portifolio_marigladini/static/css/main.9369259c.css.map",
+    "main.2e0e6553.js.map": "/portifolio_marigladini/static/js/main.2e0e6553.js.map",
     "787.4345a892.chunk.js.map": "/portifolio_marigladini/static/js/787.4345a892.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0960290f.css",
-    "static/js/main.994d0500.js"
+    "static/css/main.9369259c.css",
+    "static/js/main.2e0e6553.js"
   ]
 }
