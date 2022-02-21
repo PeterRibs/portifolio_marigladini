@@ -5,7 +5,7 @@ import TextoList from "./Textos";
 
 const CardList = () => {
   return(
-    <div className="container">
+    <div className="container cardList-container">
       {
         TextoList.map((cadaTxt, i) => {
           return (

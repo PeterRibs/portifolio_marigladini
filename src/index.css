@@ -1,9 +1,9 @@
 html{
-  min-width: 300px;
+  background-color: gray;
 }
 
 body {
-  height: 100%;
+  height: 100vh;
   width: 100%;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -11,6 +11,10 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+#root{
+  height: 100%;
 }
 
 code {

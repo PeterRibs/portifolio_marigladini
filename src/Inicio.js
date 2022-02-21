@@ -4,7 +4,7 @@ import mari from "./Figs/imagem_mari.jpeg";
 
 const Inicio = ({ onRouteChange, aba }) =>{
   return(
-    <div className="container container-2">
+    <div className="container container-inicio">
       <div className="inicio-imagem-container">
         <img className = "imagem-inicio" src = {mari}/>
       </div>

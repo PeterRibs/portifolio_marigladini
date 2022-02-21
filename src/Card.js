@@ -7,7 +7,6 @@ const Card = ({ titulo, data, texto, imagem }) =>{
         <img className="imagem-texto" src = {imagem} alt="figura"/>
         <div className="texto">
           <h2>{titulo}</h2>
-          <h5>{data}</h5>
           <p>{texto}</p>
         </div> 
     </div>

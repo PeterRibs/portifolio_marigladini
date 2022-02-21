@@ -31,9 +31,7 @@ class App extends Component {
   const {route, aba} = this.state; 
   if (aba === "principal"){
       return (
-        <div className='App'>
-          <Inicio onRouteChange={this.onRouteChange}/>
-        </div>
+        <Inicio onRouteChange={this.onRouteChange}/>
       )
     } else if ( aba === 'contatoAba'){
       return (
