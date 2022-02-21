@@ -1,5 +1,5 @@
 import cafe from "./Figs/imagem_cafe.jpeg";
-import escrita from "./Figs/imagem_escrita.jpg";
+import escrita from "./Figs/imagem_escrita.jpeg";
 import mae from "./Figs/imagem_mae.jpeg";
 import pe from "./Figs/imagem_pe.jpeg";
 import caos from "./Figs/imagem_caos.jpeg";

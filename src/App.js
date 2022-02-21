@@ -4,6 +4,7 @@ import Navegation from './Navegation';
 import Inicio from './Inicio';
 import CardList from './CardList';
 import Contatos from './Contatos';
+import Destrave from './Destrave';
 
 class App extends Component {
   constructor(){
@@ -21,6 +22,8 @@ class App extends Component {
       this.setState({ aba: 'contatoAba' })
     } else if (route === 'producaoRoute'){
       this.setState({ aba: 'producaoAba' })
+    } else if (route === 'destraveRoute'){
+      this.setState({ aba: 'destraveAba' })
     }
   }
 
@@ -44,6 +47,13 @@ class App extends Component {
         <div className='App'>
           <Navegation onRouteChange={this.onRouteChange}/>
           <CardList onRouteChange={this.onRouteChange}/>
+        </div>
+      )
+    } else if ( aba === 'destraveAba') {
+      return (
+        <div className='App'>
+          <Navegation onRouteChange={this.onRouteChange}/>
+          <Destrave onRouteChange={this.onRouteChange}/>
         </div>
       )
     }

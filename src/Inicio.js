@@ -21,6 +21,7 @@ const Inicio = ({ onRouteChange, aba }) =>{
         buttons">
           <button onClick = {()=> onRouteChange('contatoRoute')} className="btn">Vamos conversar?</button>
           <button onClick = {()=> onRouteChange('producaoRoute')} className="btn">Quer saber mais sobre meu trabalho?</button>
+          <button onClick = {()=> onRouteChange('destraveRoute')} className="btn">Destrave seu TCC</button>
         </div>
       </div>
     </div>
